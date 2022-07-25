@@ -1,7 +1,6 @@
 ---
 title: test
 date: 2022-07-25
-category: blog
 author: Hannah Jaywon Kim
 description: Dropout summary
 ---
