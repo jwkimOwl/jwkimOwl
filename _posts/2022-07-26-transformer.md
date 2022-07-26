@@ -5,9 +5,7 @@ author: Hannah Jaywon Kim
 description: Transformer summary
 permalink: /transformer
 ---
-<h3>
-  <a class="link" href="https://jwkimowl.github.io/jwkimOwl/">Home</a>
-</h3>
+<a class="link" href="{{ site.url | relative_url}}">Home</a>
 
 # Transformer 
 ## Attension is all you need
