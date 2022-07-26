@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+### GSHS 38
+### blog: https://jwkimowl.github.io/jwkimOwl/
 
 <!--
 **jwkimOwl/jwkimOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
