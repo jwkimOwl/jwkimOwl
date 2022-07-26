@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+</head>
+<body>
+
+    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
+        {% if page.tag %}
+            <div class="post">
+        {% else %}
+                <div class="{{ page.title | downcase }}">
+        {% endif %}
+
+            {{ content }}
+        </div>
+    </div>
+
+
+</body>
+</html>
