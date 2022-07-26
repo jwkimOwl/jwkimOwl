@@ -5,7 +5,11 @@ author: Hannah Jaywon Kim
 description: Transformer summary
 permalink: /transformer
 ---
-# Transformer
+<h3>
+  <a class="link" href="{{ site.url }}/">Home</a>
+</h3>
+
+# Transformer 
 ## Attension is all you need
 
 Transformer is a model which follows the structure of the previous seq2seq model, only using Attension. This RNN-removed encoder-decoder structure was suggested in 2017, presented by Google. The paper showed that this model acheived better performance at translating than RNN.
