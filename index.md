@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Welcome to jwkimOwl Page
 
 You can visit my profile right [here](https://github.com/jwkimOwl).
