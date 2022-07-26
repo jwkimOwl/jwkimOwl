@@ -3,7 +3,7 @@ title: title_test
 date: 2022-07-26
 author: Hannah Jaywon Kim
 description: Dropout summary
-permalink: /title_test
+permalink: /jwkimOwl/title_test
 ---
 # Dropout
 ## 그놈의 over-fitting!
