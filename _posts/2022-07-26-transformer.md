@@ -3,6 +3,7 @@ title: transformer
 date: 2022-07-26
 author: Hannah Jaywon Kim
 description: Transformer summary
+permalink: /transformer
 ---
 # Transformer
 ## Attension is all you need
