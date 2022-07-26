@@ -1,7 +1,7 @@
 ## Welcome to jwkimOwl Page
 
 You can visit my profile right [here](https://github.com/jwkimOwl).
-
+<ul>
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
@@ -15,3 +15,4 @@ You can visit my profile right [here](https://github.com/jwkimOwl).
 		{% endfor %}
 	{% endif %}
 </section>
+</ul>
